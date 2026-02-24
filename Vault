@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Historical Analysis: The Industrial Revolution</title>
+    <style>
+        body { font-family: 'Times New Roman', serif; line-height: 1.6; padding: 40px; color: #333; max-width: 800px; margin: auto; }
+        h1 { border-bottom: 2px solid #333; }
+        /* This makes the secret link look like a normal period */
+        .secret-gate { color: #333; text-decoration: none; cursor: text; }
+    </style>
+</head>
+<body>
+    <h1>Impact of Steam Power on 19th Century Labor</h1>
+    <p>The transition to new manufacturing processes in Europe and the United States was a turning point in history. This period saw a shift from hand production methods to machines and new chemical manufacturing.</p>
+    
+    <p>Textile industries were the first to use modern production methods. The Industrial Revolution began in Great Britain and many of the technological innovations were of British origin. By the mid-18th century Britain was the world's leading commercial nation<a href="vault.html" class="secret-gate">.</a></p>
+    
+    <p>Social changes were also significant, leading to the growth of cities and a new urban working class.</p>
+</body>
+</html>
