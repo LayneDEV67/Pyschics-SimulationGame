@@ -1,0 +1,13 @@
+<script>
+  // 1. This changes the text on the browser tab
+  document.title = "Google Docs: History Report - Industrial Revolution";
+
+  // 2. This changes the little icon to the blue Google Docs icon
+  (function() {
+      var link = document.querySelector("link[rel*='icon']") || document.createElement('link');
+      link.type = 'image/x-icon';
+      link.rel = 'shortcut icon';
+      link.href = 'https://ssl.gstatic.com/docs/documents/images/kix-favicon7.ico';
+      document.getElementsByTagName('head')[0].appendChild(link);
+  })();
+</script>
